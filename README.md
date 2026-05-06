@@ -214,12 +214,8 @@ If you use GLUE++ in your research, please additionally cite this repository.
 
 This work is built upon the original:
 
-- Gao Lab GLUE framework
-- SCGLUE implementation
-- PyTorch Geometric ecosystem
-
-Original GLUE Repository:  
-https://github.com/gao-lab/GLUE
+- Machine Learning and Computational Biology group at Tsinghua University
+- Students of Professor Jianyang Michael Zeng i.e., Wenda Chu, Minsi Lu, Botian Wang, Sihang Zeng, Shiyu Zhao for PNA idea
 
 ---
 
